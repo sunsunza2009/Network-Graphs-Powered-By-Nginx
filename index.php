@@ -333,18 +333,18 @@ a:active { color:#ffffff; text-decoration: underline; }
         <div id="container" style="width: 100%px; height: 500px; margin: 0 auto;"></div>
 
 <br>
-<font color="white">โหลด Plug in ก่อนใช้งาน<br>
-Cors Toggle สำหรับ Google Chrome <a target="_blank" href="https://chrome.google.com/webstore/detail/moesif-origin-cors-change/digfbfaphojjndkpccljibejjbppifbc">>> ดาวน์โหลด  <<</a></font>
+<font color="white">These graphs are supported by: <br>
+Google Chrome with Cors Toggle installed plugin, download it here: <a target="_blank" href="https://chrome.google.com/webstore/detail/moesif-origin-cors-change/digfbfaphojjndkpccljibejjbppifbc">>> DOWNLOAD  <<</a></font>
 <br>
 <font color="white">
-Cors Everywhere สำหรับ Firefox <a target="_blank" href="https://addons.mozilla.org/cs/firefox/addon/cors-everywhere/?src=userprofile">>> ดาวน์โหลด  <<</a>
+Firefox with Cors Everywhere installed plugin, download it here: <a target="_blank" href="https://addons.mozilla.org/cs/firefox/addon/cors-everywhere/?src=userprofile">>> DOWNLOAD  <<</a>
 <br>
 <font color="white">
-วิธีการใช้งานสำหรับ Internet Explorer <a target="_blank" href="http://oi64.tinypic.com/293gbo4.jpg">>> กดดู  <<</a>
+Internet Explorer with enabled Allow-Control-Allow-Origin function: <a target="_blank" href="http://oi64.tinypic.com/293gbo4.jpg">>> CLICK HERE <<</a>
 <br>
 <br>
 <MARQUEE WIDTH="20px" direction="right"><font color="red">>></font></MARQUEE>
-<font color="white">เป้าหมาย http://184.84.240.183/</font>
+<font color="white">Target http://184.84.240.183/</font>
 <MARQUEE WIDTH="20px" direction="left"><font color="red"><<</font></MARQUEE>
 <br>
 <br>
