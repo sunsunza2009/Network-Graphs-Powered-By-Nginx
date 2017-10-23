@@ -18,8 +18,8 @@
             var previous = null;
             var count = 0;
             var extra = [
-                'L7 GRAPH - HIT >> http://184.84.240.183/ <<',
-                'Requests Per Second of 184.84.240.183',
+                'L7 GRAPH - HIT >> http://IP/ <<',
+                'Requests Per Second of IP',
                 '# Requests', 
             ];
 
@@ -31,7 +31,7 @@
             function parseFile()
             {
                 $.ajax({
-                    url: "http://184.84.240.183/nginx_status",
+                    url: "http://IP/nginx_status",
                     dataType: "text",
                     cache: false
                 })
@@ -344,7 +344,7 @@ Internet Explorer with enabled Allow-Control-Allow-Origin function: <a target="_
 <br>
 <br>
 <MARQUEE WIDTH="20px" direction="right"><font color="red">>></font></MARQUEE>
-<font color="white">Target http://184.84.240.183/</font>
+<font color="white">Target http://IP/</font>
 <MARQUEE WIDTH="20px" direction="left"><font color="red"><<</font></MARQUEE>
 <br>
 <br>
